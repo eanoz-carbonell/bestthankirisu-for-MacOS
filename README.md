@@ -1,4 +1,5 @@
-# bestthankirisu
+# bestthankirisu for MacOS
+
 Bestthankirisu transforms and normalizes time-dependent spectral data obtained with the ProData-SX software (Applied Photophysics Ltd.)
 The advantage over the original kirisu (developped by José Ramon Peregrina and Jorge Estrada, University of Zaragoza) is that the code can be runned over multiple files at the same time. Additionally, it implements several tools for spectral smoothing.
 
